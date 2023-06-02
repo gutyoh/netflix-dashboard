@@ -1,0 +1,14 @@
+# .gitignore file for netflix-dashboard project
+
+# Ignore Python virtual environments
+netflix-venv/
+
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore Python cache files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.py
